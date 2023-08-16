@@ -28,3 +28,4 @@ Toy software across multiple platforms.
 - [ ] 截图 & 自定义
 - [ ] Python脚本自动解析调用
 - [ ] 复制功能扩展
+
